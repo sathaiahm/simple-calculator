@@ -26,12 +26,6 @@ It performs basic arithmetic operations like:
 
 ---
 
-## 📸 Screenshot
-
-> Add your calculator screenshot here (optional)
-
----
-
 ## 🛠️ How to Run the Project
 
 1. Download or clone the repository:
